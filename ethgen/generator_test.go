@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/lacasian/ethwheels/ethgen"
+	"github.com/Q-xyz/ethwheels/ethgen"
 	"github.com/stretchr/testify/require"
 )
 
