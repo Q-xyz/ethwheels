@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/lacasian/ethwheels/bestblock"
+	"github.com/Q-xyz/ethwheels/bestblock"
 	log "github.com/sirupsen/logrus"
 )
 
