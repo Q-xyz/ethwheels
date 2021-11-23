@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/lacasian/ethwheels/ethgen"
+	"github.com/Q-xyz/ethwheels/ethgen"
 	log "github.com/sirupsen/logrus"
 )
 
