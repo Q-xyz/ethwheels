@@ -12,7 +12,7 @@ import (
 	web3types "github.com/alethio/web3-go/types"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/lacasian/ethwheels/ethgen"
+	"github.com/Q-xyz/ethwheels/ethgen"
 	"github.com/shopspring/decimal"
 )
 
